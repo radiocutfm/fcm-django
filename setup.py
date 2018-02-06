@@ -27,7 +27,6 @@ setup(
     packages=[
         "fcm_django",
         "fcm_django/api",
-        "fcm_django/migrations",
         "fcm_django/management",
         "fcm_django/management/commands",
     ],
