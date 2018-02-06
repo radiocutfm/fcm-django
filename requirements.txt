@@ -1,1 +1,2 @@
+django-compat
 pyfcm==1.4.3
